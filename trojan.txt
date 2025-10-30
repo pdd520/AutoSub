@@ -1,5 +1,5 @@
-trojan://BxceQaOe@36.151.251.23:4451?sni=#CN_0d68f_0001
-trojan://BxceQaOe@36.151.251.35:24392?sni=#CN_0d68f_0002
+trojan://BxceQaOe@36.151.251.23:4451?sni=#CN_38060_0001
+trojan://BxceQaOe@36.151.251.35:24392?sni=#CN_38060_0002
 trojan://6165174d-41e8-48c8-b0aa-f64d3cadb299@n002.xunxunmimisbs.sbs:28100?sni=db01.xxxxyyyysbs.sbs#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE
 trojan://a34ac366-4717-45bc-a063-c1128338e377@n002.xunxunmimisbs.sbs:49100?sni=db01.xxxxyyyysbs.sbs#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%202
 trojan://53c56f20-c1b5-47ff-a0dd-6981260131f6@n002.xunxunmimisbs.sbs:49100?sni=db01.xxxxyyyysbs.sbs#%F0%9F%87%A6%F0%9F%87%AA%20%E9%98%BF%E8%81%94%E9%85%8B%20%7C%20ARE%203

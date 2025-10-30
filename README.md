@@ -1,14 +1,11 @@
 # 节点订阅统计与下载
 
-更新时间：2025-10-30 08:58 CST
+更新时间：2025-10-30 09:08 CST
 
 ## 节点统计：
 ```
-[警告] 下载失败：https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/ssr.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/ssr.txt
-[警告] 下载失败：https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/ssr.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/ssr.txt
-[警告] 下载失败：https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/ssr.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/gfpcom/free-proxy-list/main/list/ssr.txt
 [分组] 有效 65 条
-[分组] 失效 24 条
+[分组] 失效 0 条
 [写入] ss.txt : 26637 条
 [写入] ssr.txt : 0 条
 [写入] vmess.txt : 16855 条
