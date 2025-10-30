@@ -1,2 +1,2 @@
-# 失效订阅（共 0 条）
-
+# 失效订阅（共 1 条）
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/v2ray
