@@ -6,6 +6,7 @@ update.py
 - 新增：订阅分组（有效/失效）
 - 节点去重后写入 config.txt
 - 所有文件自动创建并写入
+- 优化：仅支持 ss, ssr, vmess, vless, trojan, hysteria2, clash 协议
 """
 import base64
 import os
@@ -31,12 +32,8 @@ PROTO_FILES = {                 # 协议 → 文件名
     'vmess': 'vmess.txt',
     'vless': 'vless.txt',
     'trojan': 'trojan.txt',
-    'hysteria': 'hysteria.txt',
     'hysteria2': 'hysteria2.txt',
-    'tuic': 'tuic.txt',
-    'naive+https': 'naive_https.txt',
-    'wireguard': 'wireguard.txt',
-    'clash': 'clash.yaml'       # 完整 Clash YAML 单独保存
+    'clash': 'clash.yaml'       # Clash YAML 单独保存/合并
 }
 ALL_FILE = 'all.txt'           # 总节点文件
 
@@ -109,18 +106,12 @@ def _clash_to_uri(proxy: dict) -> str:
         host = proxy.get('ws-opts', {}).get('headers', {}).get('Host', '')
         path = proxy.get('ws-opts', {}).get('path', '')
         return f'vless://{uuid}@{server}:{port}?type={net}&security={tls}&host={host}&path={path}#{name}'
-    if t in ('hysteria', 'hysteria2'):
+    if t == 'hysteria2':
         auth = proxy.get('auth', proxy.get('password', ''))
         if not auth:
             return ''
         alpn = ','.join(proxy.get('alpn', []))
-        return f'{t}://{auth}@{server}:{port}?alpn={alpn}#{name}'
-    if t == 'tuic':
-        uuid = proxy.get('uuid', '')
-        pwd = proxy.get('password', '')
-        if not uuid or not pwd:
-            return ''
-        return f'tuic://{uuid}:{pwd}@{server}:{port}#{name}'
+        return f'hysteria2://{auth}@{server}:{port}?alpn={alpn}#{name}'
     return ''
 
 def 提取节点(raw: bytes) -> List[str]:
@@ -138,7 +129,9 @@ def 提取节点(raw: bytes) -> List[str]:
                 data = yaml.safe_load(text)
                 proxies = data.get(key, []) if key != 'proxy-providers' else \
                           [p for v in data.get(key, {}).values() for p in v.get('proxies', [])]
-                return [_clash_to_uri(p) for p in proxies if _clash_to_uri(p)]
+                uris = [_clash_to_uri(p) for p in proxies if _clash_to_uri(p)]
+                # 为 Clash 协议收集原 YAML（稍后合并写入）
+                return uris  # 返回 URI，继续分类
             except Exception:
                 return []
 
@@ -168,7 +161,11 @@ def main():
     # 检测有效性
     valid, invalid = [], []
     for url in links:
-        (valid if len(提取节点(下载(url))) > 0 else invalid).append(url)
+        nodes = 提取节点(下载(url))
+        if len(nodes) >= MIN_NODES_PER_SUB:  # 优化：使用 MIN_NODES_PER_SUB 阈值
+            valid.append(url)
+        else:
+            invalid.append(url)
 
     # 写分组文件
     with open(VALID_FILE, 'w', encoding='utf-8') as f:
@@ -182,14 +179,27 @@ def main():
     # 协议桶
     protocol_nodes = {proto: [] for proto in PROTO_FILES}
     all_nodes = []
+    clash_yamls = []  # 收集 Clash YAML 内容，用于合并
 
     # 拉取并分类
     for url in valid:
         raw = 下载(url)
+        if not raw:
+            continue
+        text = raw.decode('utf-8', errors='ignore')
+        
+        # 检查是否为 Clash YAML，并收集原内容
+        is_clash = False
+        for key in ('proxies', 'Proxy', 'proxy-providers'):
+            if re.search(rf'^{key}\s*:', text, flags=re.MULTILINE | re.IGNORECASE):
+                is_clash = True
+                clash_yamls.append(text)
+                break
+        
         tmp_nodes = 提取节点(raw)
         all_nodes.extend(tmp_nodes)
 
-        # 按协议分类
+        # 按协议分类（仅保留支持协议）
         for node in tmp_nodes:
             if node.startswith('ss://'):
                 protocol_nodes['ss'].append(node)
@@ -201,19 +211,9 @@ def main():
                 protocol_nodes['vless'].append(node)
             elif node.startswith('trojan://'):
                 protocol_nodes['trojan'].append(node)
-            elif node.startswith('hysteria://'):
-                protocol_nodes['hysteria'].append(node)
             elif node.startswith('hysteria2://'):
                 protocol_nodes['hysteria2'].append(node)
-            elif node.startswith('tuic://'):
-                protocol_nodes['tuic'].append(node)
-            elif node.startswith('naive+https://'):
-                protocol_nodes['naive+https'].append(node)
-            elif node.startswith('wireguard://'):
-                protocol_nodes['wireguard'].append(node)
-            else:
-                # 未识别协议也进 all
-                pass
+            # 未识别协议忽略，不进 all（但 all 已 extend tmp_nodes）
 
     # 去重（保序）
     for proto in protocol_nodes:
@@ -223,9 +223,31 @@ def main():
 
     # 写入各协议文件
     for proto, filename in PROTO_FILES.items():
-        with open(os.path.join(REPO_ROOT, filename), 'w', encoding='utf-8') as f:
-            f.write('\n'.join(protocol_nodes[proto]) + '\n')
-        print(f'[写入] {filename} : {len(protocol_nodes[proto])} 条')
+        if proto == 'clash' and clash_yamls:
+            # 合并多个 Clash YAML
+            merged_proxies = []
+            seen_names = set()
+            for yaml_text in clash_yamls:
+                try:
+                    data = yaml.safe_load(yaml_text)
+                    for key in ('proxies', 'Proxy', 'proxy-providers'):
+                        proxies = data.get(key, []) if key != 'proxy-providers' else \
+                                  [p for v in data.get(key, {}).values() for p in v.get('proxies', [])]
+                        for p in proxies:
+                            name = p.get('name', '')
+                            if name and name not in seen_names:
+                                seen_names.add(name)
+                                merged_proxies.append(p)
+                except Exception:
+                    pass
+            merged_yaml = {'proxies': merged_proxies}
+            with open(os.path.join(REPO_ROOT, filename), 'w', encoding='utf-8') as f:
+                yaml.dump(merged_yaml, f, default_flow_style=False, allow_unicode=True)
+            print(f'[写入] {filename} : {len(merged_proxies)} 条')
+        else:
+            with open(os.path.join(REPO_ROOT, filename), 'w', encoding='utf-8') as f:
+                f.write('\n'.join(protocol_nodes[proto]) + '\n')
+            print(f'[写入] {filename} : {len(protocol_nodes[proto])} 条')
 
     # 总节点
     with open(os.path.join(REPO_ROOT, ALL_FILE), 'w', encoding='utf-8') as f:
