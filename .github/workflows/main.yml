@@ -1,0 +1,59 @@
+name: 自动更新订阅与节点 main
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # 北京时间 6:00 = UTC 22:00（前一天）
+  workflow_dispatch:
+
+jobs:
+  update-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML==6.0 requests
+
+      - name: 执行更新脚本
+        run: |
+          python update.py > log.txt
+
+      - name: 生成 README.md（使用北京时间）
+        run: |
+          echo "# 节点订阅统计与下载" > README.md
+          echo "" >> README.md
+          echo "更新时间：$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M CST')" >> README.md
+          echo "" >> README.md
+          echo "## 节点统计：" >> README.md
+          echo '```' >> README.md
+          cat log.txt >> README.md
+          echo '```' >> README.md
+          echo "" >> README.md
+          echo "## 下载链接：" >> README.md
+
+          for file in *.txt *.yaml; do
+            if [ -s "$file" ]; then
+              echo "- [${file}](./$file)" >> README.md
+            fi
+          done
+
+      - name: 提交更新
+        run: |
+          git config --local user.email '${{ secrets.EMAIL }}'
+          git config --local user.name '${{ secrets.NAME }}'
+          git add *.txt *.yaml README.md
+          changes=$(git diff --staged --name-only | grep -E '\.txt$|\.yaml$|README.md' || true)
+          if [ -z "$changes" ]; then
+            echo "No changes detected."
+          else
+            git commit -m "更新代理节点数量与 README"
+            git push
+          fi
