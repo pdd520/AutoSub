@@ -57,3 +57,9 @@ jobs:
             git commit -m "更新代理节点数量与 README"
             git push
           fi
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 0
+          keep_minimum_runs: 2
