@@ -1,4 +1,5 @@
-# 有效订阅（共 58 条）
+# 有效订阅（共 64 条）
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
@@ -7,6 +8,8 @@ https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/main/APIs/
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml
 https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/mgit0001/test_clash/main/heima.txt
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
@@ -34,7 +37,9 @@ https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
@@ -44,6 +49,7 @@ https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/clash.yaml
 https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 https://raw.githubusercontent.com/mgit0001/test_clash/refs/heads/main/heima.txt
