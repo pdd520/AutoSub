@@ -1,16 +1,10 @@
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8107a82410>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8107a83e10>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8107a80c90>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8107bf7950>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8107bf4e90>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8107311810>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[分组] 有效 60 条
-[分组] 失效 5 条
-[写入] ss.txt : 25428 条
+[分组] 有效 62 条
+[分组] 失效 3 条
+[写入] ss.txt : 25523 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 18290 条
-[写入] vless.txt : 112330 条
-[写入] trojan.txt : 20958 条
-[写入] hysteria2.txt : 511 条
-[写入] clash.yaml : 17788 条
-[完成] all.txt : 177563 条
+[写入] vmess.txt : 17993 条
+[写入] vless.txt : 112687 条
+[写入] trojan.txt : 20976 条
+[写入] hysteria2.txt : 542 条
+[写入] clash.yaml : 17487 条
+[完成] all.txt : 177767 条
