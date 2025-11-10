@@ -1,4 +1,4 @@
-# 有效订阅（共 63 条）
+# 有效订阅（共 64 条）
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
@@ -62,3 +62,4 @@ https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protoc
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/iosDG001/_/refs/heads/main/SS
