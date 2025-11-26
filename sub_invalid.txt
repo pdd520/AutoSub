@@ -1,2 +1,2 @@
-# 失效订阅（共 1 条）
-https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/main/APIs/sc3.yaml
+# 失效订阅（共 0 条）
+
