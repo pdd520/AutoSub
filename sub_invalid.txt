@@ -1,3 +1,2 @@
-# 失效订阅（共 2 条）
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
+# 失效订阅（共 0 条）
+
