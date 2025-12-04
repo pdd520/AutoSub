@@ -1,3 +1,5 @@
-# 失效订阅（共 2 条）
-https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml
-https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml
+# 失效订阅（共 4 条）
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
+https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
