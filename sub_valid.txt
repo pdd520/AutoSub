@@ -1,4 +1,4 @@
-# 有效订阅（共 64 条）
+# 有效订阅（共 61 条）
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/main/c.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
@@ -41,12 +40,10 @@ https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.ym
 https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
-https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.txt
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/README.md
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
 https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/clash.yaml
-https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml

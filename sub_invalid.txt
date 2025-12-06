@@ -1,2 +1,5 @@
-# 失效订阅（共 1 条）
+# 失效订阅（共 4 条）
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/refs/heads/main/v2ray
+https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml
+https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
