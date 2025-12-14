@@ -1,4 +1,4 @@
-# 有效订阅（共 57 条）
+# 有效订阅（共 54 条）
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
@@ -9,7 +9,6 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eterni
 https://raw.githubusercontent.com/vxiaov/free_proxies/main/clash/clash.provider.yaml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/mgit0001/test_clash/main/heima.txt
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/free18/v2ray/main/c.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
@@ -44,8 +43,6 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml
 https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 https://raw.githubusercontent.com/mgit0001/test_clash/refs/heads/main/heima.txt
 https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml
 https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml
