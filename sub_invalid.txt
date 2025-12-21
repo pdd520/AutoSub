@@ -1,15 +1,9 @@
-# 失效订阅（共 14 条）
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
+# 失效订阅（共 8 条）
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/main/APIs/sc4.yaml
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
 https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt
 https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt
-https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml
 https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/clash.yaml
-https://raw.githubusercontent.com/zhangkaiitugithub/passcro/main/speednodes.yaml
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
 https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
