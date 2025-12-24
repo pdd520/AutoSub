@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2025-12-24 06:18 CST
+更新时间：2025-12-25 06:18 CST
 
 ## 节点统计：
 ```
@@ -19,16 +19,16 @@
 [警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 [警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 [警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-[分组] 有效 57 条
-[分组] 失效 8 条
-[写入] ss.txt : 11047 条
+[分组] 有效 51 条
+[分组] 失效 14 条
+[写入] ss.txt : 11054 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9817 条
-[写入] vless.txt : 16324 条
-[写入] trojan.txt : 3339 条
-[写入] hysteria2.txt : 546 条
-[写入] clash.yaml : 14421 条
-[完成] all.txt : 41120 条
+[写入] vmess.txt : 9742 条
+[写入] vless.txt : 16841 条
+[写入] trojan.txt : 3257 条
+[写入] hysteria2.txt : 457 条
+[写入] clash.yaml : 14356 条
+[完成] all.txt : 41395 条
 ```
 
 ## 下载链接：
