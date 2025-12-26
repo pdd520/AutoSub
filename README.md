@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2025-12-26 06:18 CST
+更新时间：2025-12-27 06:18 CST
 
 ## 节点统计：
 ```
@@ -21,14 +21,14 @@
 [警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
 [分组] 有效 57 条
 [分组] 失效 8 条
-[写入] ss.txt : 11225 条
+[写入] ss.txt : 11203 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9944 条
-[写入] vless.txt : 17065 条
-[写入] trojan.txt : 3415 条
-[写入] hysteria2.txt : 494 条
-[写入] clash.yaml : 14726 条
-[完成] all.txt : 42186 条
+[写入] vmess.txt : 10030 条
+[写入] vless.txt : 17424 条
+[写入] trojan.txt : 3572 条
+[写入] hysteria2.txt : 483 条
+[写入] clash.yaml : 14692 条
+[完成] all.txt : 42755 条
 ```
 
 ## 下载链接：
