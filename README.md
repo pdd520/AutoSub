@@ -1,34 +1,19 @@
 # 节点订阅统计与下载
 
-更新时间：2025-12-28 06:17 CST
+更新时间：2025-12-28 18:58 CST
 
 ## 节点统计：
 ```
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt
-[警告] 下载失败：https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt
-[警告] 下载失败：https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links1.txt
-[警告] 下载失败：https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt
-[警告] 下载失败：https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt
-[警告] 下载失败：https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/SamanGho/v2ray_collector/main/v2tel_links2.txt
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-[警告] 下载失败：https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2  404 Client Error: Not Found for url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/refs/heads/main/v2
-[分组] 有效 52 条
-[分组] 失效 13 条
-[写入] ss.txt : 11144 条
+[分组] 有效 51 条
+[分组] 失效 1 条
+[写入] ss.txt : 11133 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 10005 条
-[写入] vless.txt : 17447 条
-[写入] trojan.txt : 3614 条
-[写入] hysteria2.txt : 456 条
-[写入] clash.yaml : 14598 条
-[完成] all.txt : 42709 条
+[写入] vmess.txt : 9741 条
+[写入] vless.txt : 17717 条
+[写入] trojan.txt : 3533 条
+[写入] hysteria2.txt : 455 条
+[写入] clash.yaml : 14648 条
+[完成] all.txt : 42624 条
 ```
 
 ## 下载链接：
