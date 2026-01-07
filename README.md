@@ -1,25 +1,19 @@
 # 节点订阅统计与下载
 
-更新时间：2026-01-07 06:20 CST
+更新时间：2026-01-08 06:19 CST
 
 ## 节点统计：
 ```
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by ConnectTimeoutError(<HTTPSConnection(host='file.uhsea.com', port=443) at 0x7fb79c6d2e10>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by ConnectTimeoutError(<HTTPSConnection(host='file.uhsea.com', port=443) at 0x7fb79c6d3190>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by ConnectTimeoutError(<HTTPSConnection(host='file.uhsea.com', port=443) at 0x7fb79c6d19d0>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by ConnectTimeoutError(<HTTPSConnection(host='file.uhsea.com', port=443) at 0x7fb79de3e290>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by ConnectTimeoutError(<HTTPSConnection(host='file.uhsea.com', port=443) at 0x7fb79de3fe10>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by ConnectTimeoutError(<HTTPSConnection(host='file.uhsea.com', port=443) at 0x7fb79c4b7210>, 'Connection to file.uhsea.com timed out. (connect timeout=10)'))
-[分组] 有效 44 条
-[分组] 失效 8 条
-[写入] ss.txt : 10636 条
+[分组] 有效 46 条
+[分组] 失效 6 条
+[写入] ss.txt : 9678 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9856 条
-[写入] vless.txt : 18848 条
-[写入] trojan.txt : 3687 条
-[写入] hysteria2.txt : 449 条
-[写入] clash.yaml : 14418 条
-[完成] all.txt : 43517 条
+[写入] vmess.txt : 9529 条
+[写入] vless.txt : 7924 条
+[写入] trojan.txt : 3280 条
+[写入] hysteria2.txt : 236 条
+[写入] clash.yaml : 14460 条
+[完成] all.txt : 30688 条
 ```
 
 ## 下载链接：
