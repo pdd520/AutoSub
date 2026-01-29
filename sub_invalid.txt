@@ -1,6 +1,9 @@
-# 失效订阅（共 6 条）
+# 失效订阅（共 9 条）
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/main/APIs/sc3.yaml
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray/v2rayshare.txt
+https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml
 https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml
