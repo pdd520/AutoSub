@@ -1,25 +1,25 @@
 # 节点订阅统计与下载
 
-更新时间：2026-01-31 06:23 CST
+更新时间：2026-02-01 06:21 CST
 
 ## 节点统计：
 ```
+[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
 [警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
+[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
 [警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)')))
-[分组] 有效 44 条
-[分组] 失效 8 条
-[写入] ss.txt : 9270 条
+[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[分组] 有效 45 条
+[分组] 失效 7 条
+[写入] ss.txt : 9192 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9399 条
-[写入] vless.txt : 6668 条
-[写入] trojan.txt : 3331 条
-[写入] hysteria2.txt : 73 条
-[写入] clash.yaml : 14481 条
-[完成] all.txt : 28796 条
+[写入] vmess.txt : 9421 条
+[写入] vless.txt : 6497 条
+[写入] trojan.txt : 4039 条
+[写入] hysteria2.txt : 94 条
+[写入] clash.yaml : 14751 条
+[完成] all.txt : 29290 条
 ```
 
 ## 下载链接：
