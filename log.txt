@@ -1,10 +1,10 @@
 [分组] 有效 46 条
 [分组] 失效 6 条
-[写入] ss.txt : 9479 条
+[写入] ss.txt : 8221 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9686 条
-[写入] vless.txt : 9030 条
-[写入] trojan.txt : 3440 条
-[写入] hysteria2.txt : 203 条
-[写入] clash.yaml : 14997 条
-[完成] all.txt : 31885 条
+[写入] vmess.txt : 9020 条
+[写入] vless.txt : 5825 条
+[写入] trojan.txt : 3176 条
+[写入] hysteria2.txt : 174 条
+[写入] clash.yaml : 14895 条
+[完成] all.txt : 26464 条
