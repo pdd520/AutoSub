@@ -1,10 +1,16 @@
-[分组] 有效 46 条
-[分组] 失效 6 条
-[写入] ss.txt : 10244 条
-[写入] ssr.txt : 0 条
-[写入] vmess.txt : 10178 条
-[写入] vless.txt : 15011 条
-[写入] trojan.txt : 3736 条
-[写入] hysteria2.txt : 182 条
-[写入] clash.yaml : 14337 条
-[完成] all.txt : 39407 条
+[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[分组] 有效 43 条
+[分组] 失效 9 条
+[写入] ss.txt : 9899 条
+[写入] ssr.txt : 31 条
+[写入] vmess.txt : 10239 条
+[写入] vless.txt : 13533 条
+[写入] trojan.txt : 3655 条
+[写入] hysteria2.txt : 92 条
+[写入] clash.yaml : 14227 条
+[完成] all.txt : 37505 条
