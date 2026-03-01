@@ -1,5 +1,4 @@
 # 有效订阅（共 43 条）
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
 https://raw.githubusercontent.com/Q3dlaXpoaQ/V2rayN_Clash_Node_Getter/main/APIs/sc3.yaml
@@ -14,6 +13,7 @@ https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.txt
+https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodefree.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/v2rayshare.txt
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
