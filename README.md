@@ -1,19 +1,19 @@
 # 节点订阅统计与下载
 
-更新时间：2026-04-18 06:36 CST
+更新时间：2026-04-19 06:31 CST
 
 ## 节点统计：
 ```
 [分组] 有效 46 条
 [分组] 失效 6 条
-[写入] ss.txt : 9048 条
+[写入] ss.txt : 8824 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 8548 条
-[写入] vless.txt : 5480 条
-[写入] trojan.txt : 2996 条
-[写入] hysteria2.txt : 94 条
-[写入] clash.yaml : 14028 条
-[完成] all.txt : 26214 条
+[写入] vmess.txt : 8559 条
+[写入] vless.txt : 4858 条
+[写入] trojan.txt : 2973 条
+[写入] hysteria2.txt : 118 条
+[写入] clash.yaml : 13985 条
+[完成] all.txt : 25382 条
 ```
 
 ## 下载链接：
