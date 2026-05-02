@@ -1,10 +1,11 @@
 [分组] 有效 46 条
 [分组] 失效 6 条
-[写入] ss.txt : 8826 条
+[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Read timed out. (read timeout=10)
+[写入] ss.txt : 8717 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9059 条
-[写入] vless.txt : 6556 条
-[写入] trojan.txt : 3251 条
-[写入] hysteria2.txt : 118 条
-[写入] clash.yaml : 14368 条
-[完成] all.txt : 27861 条
+[写入] vmess.txt : 9097 条
+[写入] vless.txt : 6357 条
+[写入] trojan.txt : 3105 条
+[写入] hysteria2.txt : 119 条
+[写入] clash.yaml : 14446 条
+[完成] all.txt : 27447 条
