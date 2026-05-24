@@ -1,4 +1,4 @@
-# 有效订阅（共 50 条）
+# 有效订阅（共 49 条）
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/wenode.txt
 https://raw.githubusercontent.com/acymz/AutoVPN/main/data/V2.txt
 https://raw.githubusercontent.com/peacefish/nodefree/main/sub/proxy_cf.yaml
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/utils/pool/output.yaml
-https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
