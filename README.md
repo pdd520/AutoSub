@@ -1,28 +1,22 @@
 # 节点订阅统计与下载
 
-更新时间：2026-06-03 07:43 CST
+更新时间：2026-06-04 07:29 CST
 
 ## 节点统计：
 ```
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  502 Server Error: Bad Gateway for url: https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  502 Server Error: Bad Gateway for url: https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  502 Server Error: Bad Gateway for url: https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  502 Server Error: Bad Gateway for url: https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  502 Server Error: Bad Gateway for url: https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  502 Server Error: Bad Gateway for url: https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml
-[分组] 有效 44 条
-[分组] 失效 8 条
-[写入] ss.txt : 8025 条
+[分组] 有效 40 条
+[分组] 失效 12 条
+[写入] ss.txt : 8126 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9223 条
-[写入] vless.txt : 6323 条
-[写入] trojan.txt : 3394 条
-[写入] hysteria2.txt : 243 条
-[写入] clash.yaml : 13528 条
-[完成] all.txt : 27268 条
+[写入] vmess.txt : 8839 条
+[写入] vless.txt : 6013 条
+[写入] trojan.txt : 3487 条
+[写入] hysteria2.txt : 240 条
+[写入] clash.yaml : 13535 条
+[完成] all.txt : 26762 条
 ```
 
 ## 下载链接：
