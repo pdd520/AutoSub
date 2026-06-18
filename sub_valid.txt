@@ -1,4 +1,5 @@
-# 有效订阅（共 41 条）
+# 有效订阅（共 42 条）
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
 https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.yml
