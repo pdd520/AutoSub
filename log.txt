@@ -3,11 +3,11 @@
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 [分组] 有效 42 条
 [分组] 失效 10 条
-[写入] ss.txt : 8767 条
+[写入] ss.txt : 8816 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 8869 条
-[写入] vless.txt : 12043 条
-[写入] trojan.txt : 4070 条
-[写入] hysteria2.txt : 234 条
-[写入] clash.yaml : 13608 条
-[完成] all.txt : 34044 条
+[写入] vmess.txt : 8979 条
+[写入] vless.txt : 11867 条
+[写入] trojan.txt : 4137 条
+[写入] hysteria2.txt : 228 条
+[写入] clash.yaml : 13758 条
+[完成] all.txt : 34090 条
