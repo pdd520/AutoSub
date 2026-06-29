@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2026-06-29 06:59 CST
+更新时间：2026-06-30 06:53 CST
 
 ## 节点统计：
 ```
@@ -9,14 +9,14 @@
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 [分组] 有效 43 条
 [分组] 失效 9 条
-[写入] ss.txt : 8718 条
+[写入] ss.txt : 8587 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9520 条
-[写入] vless.txt : 11725 条
-[写入] trojan.txt : 4969 条
-[写入] hysteria2.txt : 190 条
-[写入] clash.yaml : 14659 条
-[完成] all.txt : 35183 条
+[写入] vmess.txt : 9345 条
+[写入] vless.txt : 11299 条
+[写入] trojan.txt : 5001 条
+[写入] hysteria2.txt : 206 条
+[写入] clash.yaml : 14687 条
+[完成] all.txt : 34498 条
 ```
 
 ## 下载链接：
