@@ -1,23 +1,22 @@
 # 节点订阅统计与下载
 
-更新时间：2026-07-09 07:03 CST
+更新时间：2026-07-10 07:08 CST
 
 ## 节点统计：
 ```
-[警告] 下载失败：https://raw.githubusercontent.com/peacefish/nodefree/main/sub/proxy_cf.yaml  429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/peacefish/nodefree/main/sub/proxy_cf.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
 [警告] 下载失败：https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt  404 Client Error: Not Found for url: https://raw.githubusercontent.com/yorkLiu/FreeV2RayNode/main/v2ray.txt
-[分组] 有效 44 条
-[分组] 失效 8 条
-[写入] ss.txt : 8640 条
+[分组] 有效 42 条
+[分组] 失效 10 条
+[写入] ss.txt : 8570 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 9595 条
-[写入] vless.txt : 12661 条
-[写入] trojan.txt : 5483 条
-[写入] hysteria2.txt : 710 条
-[写入] clash.yaml : 14633 条
-[完成] all.txt : 37162 条
+[写入] vmess.txt : 9549 条
+[写入] vless.txt : 11602 条
+[写入] trojan.txt : 5140 条
+[写入] hysteria2.txt : 665 条
+[写入] clash.yaml : 14129 条
+[完成] all.txt : 35602 条
 ```
 
 ## 下载链接：
