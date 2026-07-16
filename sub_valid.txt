@@ -1,4 +1,4 @@
-# 有效订阅（共 37 条）
+# 有效订阅（共 38 条）
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/all_configs.txt
@@ -9,6 +9,7 @@ https://raw.githubusercontent.com/mgit0001/test_clash/main/heima.txt
 https://raw.githubusercontent.com/free18/v2ray/main/c.yaml
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.yml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
 https://raw.githubusercontent.com/xiaoji235/airport-free/main/v2ray.txt
 https://raw.githubusercontent.com/ts-sf/fly/main/clash
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.txt
