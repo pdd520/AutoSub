@@ -10,25 +10,19 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/2f1928c440325914dff2c1ffe0ccec4aR3.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
-[警告] 下载失败：https://file.uhsea.com/2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml  HTTPSConnectionPool(host='file.uhsea.com', port=443): Max retries exceeded with url: /2501/295ccc51ad490cb731e8a95f9212b4f1BI.yaml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
-[分组] 有效 36 条
-[分组] 失效 16 条
-[写入] ss.txt : 6758 条
+[分组] 有效 38 条
+[分组] 失效 14 条
+[写入] ss.txt : 6945 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 7493 条
-[写入] vless.txt : 13621 条
-[写入] trojan.txt : 5995 条
-[写入] hysteria2.txt : 178 条
-[写入] clash.yaml : 13962 条
-[完成] all.txt : 34116 条
+[写入] vmess.txt : 7508 条
+[写入] vless.txt : 14023 条
+[写入] trojan.txt : 5750 条
+[写入] hysteria2.txt : 265 条
+[写入] clash.yaml : 14186 条
+[完成] all.txt : 34566 条
