@@ -1,5 +1,4 @@
-# 失效订阅（共 13 条）
-https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
+# 失效订阅（共 12 条）
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.yml
 https://raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/nodev2ray.txt
