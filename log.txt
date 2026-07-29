@@ -16,13 +16,13 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
-[分组] 有效 42 条
-[分组] 失效 10 条
-[写入] ss.txt : 7088 条
+[分组] 有效 40 条
+[分组] 失效 12 条
+[写入] ss.txt : 6990 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 7672 条
-[写入] vless.txt : 12538 条
-[写入] trojan.txt : 5203 条
-[写入] hysteria2.txt : 227 条
-[写入] clash.yaml : 14610 条
-[完成] all.txt : 32877 条
+[写入] vmess.txt : 7953 条
+[写入] vless.txt : 11927 条
+[写入] trojan.txt : 4151 条
+[写入] hysteria2.txt : 228 条
+[写入] clash.yaml : 14597 条
+[完成] all.txt : 31396 条
