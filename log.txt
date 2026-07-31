@@ -18,11 +18,11 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [分组] 有效 40 条
 [分组] 失效 12 条
-[写入] ss.txt : 7005 条
+[写入] ss.txt : 7067 条
 [写入] ssr.txt : 0 条
-[写入] vmess.txt : 8158 条
-[写入] vless.txt : 11860 条
-[写入] trojan.txt : 4161 条
-[写入] hysteria2.txt : 262 条
-[写入] clash.yaml : 14477 条
-[完成] all.txt : 31595 条
+[写入] vmess.txt : 8496 条
+[写入] vless.txt : 11367 条
+[写入] trojan.txt : 3836 条
+[写入] hysteria2.txt : 227 条
+[写入] clash.yaml : 14485 条
+[完成] all.txt : 31142 条
