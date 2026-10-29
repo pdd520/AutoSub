@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2026-10-28 08:58 CST
+更新时间：2026-10-29 09:31 CST
 
 ## 节点统计：
 ```
@@ -36,14 +36,14 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [分组] 有效 38 条
 [分组] 失效 14 条
-[写入] ss.txt : 8269 条
+[写入] ss.txt : 7863 条
 [写入] ssr.txt : 12 条
-[写入] vmess.txt : 10385 条
-[写入] vless.txt : 18271 条
-[写入] trojan.txt : 4555 条
-[写入] hysteria2.txt : 656 条
-[写入] clash.yaml : 13893 条
-[完成] all.txt : 42497 条
+[写入] vmess.txt : 10676 条
+[写入] vless.txt : 16800 条
+[写入] trojan.txt : 4256 条
+[写入] hysteria2.txt : 437 条
+[写入] clash.yaml : 13804 条
+[完成] all.txt : 40346 条
 ```
 
 ## 下载链接：
