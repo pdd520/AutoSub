@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2026-11-11 09:42 CST
+更新时间：2026-11-12 10:41 CST
 
 ## 节点统计：
 ```
@@ -28,8 +28,7 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
-[警告] 下载失败：https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml  501 Server Error: First fragment: Transfer-Encoding not supported for url: https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml
-[警告] 下载失败：https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml  501 Server Error: First fragment: Transfer-Encoding not supported for url: https://raw.githubusercontent.com/Flikify/getNode/main/clash.yaml
+[警告] 下载失败：https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml  501 Server Error: First fragment: Transfer-Encoding not supported for url: https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
@@ -38,14 +37,14 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [分组] 有效 37 条
 [分组] 失效 15 条
-[写入] ss.txt : 8594 条
-[写入] ssr.txt : 12 条
-[写入] vmess.txt : 10978 条
-[写入] vless.txt : 18087 条
-[写入] trojan.txt : 4723 条
-[写入] hysteria2.txt : 714 条
-[写入] clash.yaml : 14077 条
-[完成] all.txt : 43412 条
+[写入] ss.txt : 8738 条
+[写入] ssr.txt : 15 条
+[写入] vmess.txt : 11282 条
+[写入] vless.txt : 18551 条
+[写入] trojan.txt : 4667 条
+[写入] hysteria2.txt : 682 条
+[写入] clash.yaml : 13868 条
+[完成] all.txt : 44235 条
 ```
 
 ## 下载链接：
