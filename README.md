@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2026-11-13 10:22 CST
+更新时间：2026-11-14 09:58 CST
 
 ## 节点统计：
 ```
@@ -28,6 +28,7 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/TrinityBase
+[警告] 下载失败：https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml  501 Server Error: First fragment: Transfer-Encoding not supported for url: https://raw.githubusercontent.com/a2470982985/getNode/main/clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/trinity_clash.yaml
@@ -36,14 +37,14 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [分组] 有效 37 条
 [分组] 失效 15 条
-[写入] ss.txt : 9192 条
-[写入] ssr.txt : 14 条
-[写入] vmess.txt : 11483 条
-[写入] vless.txt : 18948 条
-[写入] trojan.txt : 4817 条
-[写入] hysteria2.txt : 988 条
-[写入] clash.yaml : 13943 条
-[完成] all.txt : 45761 条
+[写入] ss.txt : 9812 条
+[写入] ssr.txt : 12 条
+[写入] vmess.txt : 11673 条
+[写入] vless.txt : 19832 条
+[写入] trojan.txt : 5052 条
+[写入] hysteria2.txt : 1246 条
+[写入] clash.yaml : 13948 条
+[完成] all.txt : 47977 条
 ```
 
 ## 下载链接：
