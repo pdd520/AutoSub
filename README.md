@@ -1,6 +1,6 @@
 # 节点订阅统计与下载
 
-更新时间：2026-11-26 11:56 CST
+更新时间：2026-11-27 11:56 CST
 
 ## 节点统计：
 ```
@@ -34,16 +34,16 @@
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
 [警告] 下载失败：https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase  404 Client Error: Not Found for url: https://raw.githubusercontent.com/lagzian/SS-Collector/main/SS/VM_TrinityBase
-[分组] 有效 36 条
-[分组] 失效 16 条
-[写入] ss.txt : 9645 条
+[分组] 有效 37 条
+[分组] 失效 15 条
+[写入] ss.txt : 9477 条
 [写入] ssr.txt : 12 条
-[写入] vmess.txt : 11838 条
-[写入] vless.txt : 16643 条
-[写入] trojan.txt : 4542 条
-[写入] hysteria2.txt : 674 条
-[写入] clash.yaml : 13445 条
-[完成] all.txt : 43685 条
+[写入] vmess.txt : 11793 条
+[写入] vless.txt : 16258 条
+[写入] trojan.txt : 4502 条
+[写入] hysteria2.txt : 639 条
+[写入] clash.yaml : 13321 条
+[完成] all.txt : 43033 条
 ```
 
 ## 下载链接：
